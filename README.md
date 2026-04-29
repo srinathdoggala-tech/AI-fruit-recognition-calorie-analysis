@@ -23,7 +23,13 @@ AN AI application that identifies fruits and vegetables from images and provides
 ---
 
 ## 📸 Demo
-[Project Demo]("C:\Users\Ashwin\Videos\AI Nutrition Analysis video.mp4")
+[Project Demo](
+
+
+https://github.com/user-attachments/assets/de2fa40d-534b-4685-a0a0-0170955147f0
+
+
+)
 
 ---
 
