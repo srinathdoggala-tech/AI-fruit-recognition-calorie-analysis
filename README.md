@@ -37,8 +37,4 @@ https://github.com/user-attachments/assets/de2fa40d-534b-4685-a0a0-0170955147f0
 1. Model Inference: When a user uploads an image, the pre-trained **MobileNetV2** model extracts features and classifies the image.
 2. API Interaction: The predicted label (e.g., "Banana") is sent to the **CalorieNinjas API**.
 3. Data Rendering: The nutritional profile is returned and displayed on the dashboard for the user.
-Model API: http://127.0.0.1:8010/predict/
-Web app:   http://127.0.0.1:8011/
-Project is running.
-Open this direct link:
-http://127.0.0.1:8011/ for our Project
+
